@@ -13,3 +13,5 @@ MASTER 2
 Experimento 2
 
 Creado por jijaja
+incluye ejemplos en W L M
+Disponible para todos
